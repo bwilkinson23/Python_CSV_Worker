@@ -8,6 +8,7 @@ This Python code is designed to execute the following steps:
 2.) Extract the 5th column of the CSV file (in this case, an ISBN field).
 
 3.) Create a new CSV file with the data in one column.
+    Also add a header-"ISBN".
 
 4.) Name the CSV with a specific naming convention that includes a time-stamp.
 
